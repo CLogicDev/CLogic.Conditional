@@ -1,0 +1,14 @@
+{
+    "name": "CLogic.Conditionals.Editor",
+    "rootNamespace": "CLogic.Conditionals.Editor",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

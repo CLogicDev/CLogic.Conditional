@@ -1,0 +1,17 @@
+{
+    "name": "CLogic.Conditionals.Test",
+    "rootNamespace": "CLogic.Conditionals.Test",
+    "references": [
+        "GUID:743432685a1859d48b828bbf3716c2d0",
+        "GUID:febaf25a60dafbd44941357b21678606"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
