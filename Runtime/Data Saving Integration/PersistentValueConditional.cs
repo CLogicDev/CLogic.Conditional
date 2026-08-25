@@ -1,6 +1,6 @@
 ﻿using System;
 using UnityEngine;
-namespace CLogic.Conditionals
+namespace CLogic.Conditional
 {
     [CreateAssetMenu(menuName =  "CLogic/Conditionals/Persistent Value Conditional", fileName = "Persistent Value Conditional")]
     public class PersistentValueConditional : PersistentConditional<float>

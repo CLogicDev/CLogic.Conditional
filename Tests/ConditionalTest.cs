@@ -1,6 +1,6 @@
 ﻿using EditorAttributes;
 using UnityEngine;
-namespace CLogic.Conditionals.Test.Tests
+namespace CLogic.Conditional.Test.Tests
 {
     public class ConditionalTest : MonoBehaviour
     {

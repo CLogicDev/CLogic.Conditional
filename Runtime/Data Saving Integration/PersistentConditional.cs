@@ -1,5 +1,5 @@
 ﻿using CLogic.Runtime.DataSaving;
-namespace CLogic.Conditionals
+namespace CLogic.Conditional
 {
     public abstract class PersistentConditional<T> : ConditionalEvaluator
     {

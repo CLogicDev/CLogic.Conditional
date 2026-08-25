@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-namespace CLogic.Conditionals
+namespace CLogic.Conditional
 {
     public class LogicalEvaluator : ConditionalEvaluator
     {

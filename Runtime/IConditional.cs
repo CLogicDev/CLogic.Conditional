@@ -1,6 +1,6 @@
 ﻿using System;
 using UnityEngine;
-namespace CLogic.Conditionals
+namespace CLogic.Conditional
 {
     public interface IConditional
     {
