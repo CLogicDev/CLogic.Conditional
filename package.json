@@ -1,18 +1,18 @@
 {
-	"name": "dev.clogic.conditionals",
-	"version": "0.0.1",
-	"displayName": "CLogic.Conditionals",
-	"description": "A conditional system for Unity (WIP).",
-	"unity": "2019.1",
-	"documentationUrl": "https://docs.clogic.dev/CLogic.Systems/LoggingSystem",
-	"licensesUrl": "https://github.com/CLogicDev/CLogic.Utils/blob/main/LICENSE",
-	"keywords": [
-		"CLogic",
-		"Dialogue"
-	],
-	"author": {
-		"name": "CLogic",
-		"email": "contact@clogic.dev",
-		"url": "https://clogic.dev"
-	}
+  "name": "dev.clogic.conditional",
+  "version": "0.0.1",
+  "displayName": "CLogic.Conditional",
+  "description": "A conditional system for Unity (WIP).",
+  "unity": "2019.1",
+  "documentationUrl": "https://docs.clogic.dev/CLogic.Systems/LoggingSystem",
+  "licensesUrl": "https://github.com/CLogicDev/CLogic.Utils/blob/main/LICENSE",
+  "keywords": [
+    "CLogic",
+    "Dialogue"
+  ],
+  "author": {
+    "name": "CLogic",
+    "url": "https://clogic.dev",
+    "email": "contact@clogic.dev"
+  }
 }

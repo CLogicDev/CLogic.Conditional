@@ -1,7 +1,9 @@
 {
-    "name": "CLogic.Conditionals.Editor",
-    "rootNamespace": "CLogic.Conditionals.Editor",
-    "references": [],
+    "name": "CLogic.Conditional",
+    "rootNamespace": "CLogic.Conditional",
+    "references": [
+        "GUID:76d9caaf8c921d048ae46a50a53a69b6"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

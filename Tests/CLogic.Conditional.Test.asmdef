@@ -1,6 +1,6 @@
 {
-    "name": "CLogic.Conditionals.Test",
-    "rootNamespace": "CLogic.Conditionals.Test",
+    "name": "CLogic.Conditional.Test",
+    "rootNamespace": "CLogic.Conditional.Test",
     "references": [
         "GUID:743432685a1859d48b828bbf3716c2d0",
         "GUID:febaf25a60dafbd44941357b21678606"
@@ -11,7 +11,15 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
+    "defineConstraints": [
+        "CLOGIC_EDITOR_ATTRIBUTES"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.v0lt.editor-attributes",
+            "expression": "",
+            "define": "CLOGIC_EDITOR_ATTRIBUTES"
+        }
+    ],
     "noEngineReferences": false
 }
